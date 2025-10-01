@@ -10,7 +10,7 @@
 |--------------|------------------|
 | **Languages** | java |
 | **Technologies** | gui |
-| **Frameworks** | none |
+| **Frameworks** | swing |
 | **Status** | academic |
 | **Year** | 2022 |
 | **Featured** | false |
